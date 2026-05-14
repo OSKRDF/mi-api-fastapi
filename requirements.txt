@@ -1,0 +1,2 @@
+cd ~/fastapi_project/ejercicio8
+pip freeze > requirements.txt
