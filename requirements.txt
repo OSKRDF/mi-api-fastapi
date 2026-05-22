@@ -1,1 +1,9 @@
-pip freeze > requirements.txt
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt==4.0.1
+python-dotenv
+python-multipart
